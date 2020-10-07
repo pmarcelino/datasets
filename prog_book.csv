@@ -1,0 +1,272 @@
+Rating,Reviews,Book_title,Number_Of_Pages,Price
+4.17,"3,829",The Elements of Style,105,9.323529412
+4.01,"1,406","The Information: A History, a Theory, a Flood",527,11
+3.33,0,Responsive Web Design Overview For Beginners,50,11.26764706
+3.97,"1,658",Ghost in the Wires: My Adventures as the World's Most Wanted Hacker,393,12.87352941
+4.06,"1,325",How Google Works,305,13.16470588
+3.84,117,The Meme Machine,288,14.18823529
+4.09,"5,938",Start with Why: How Great Leaders Inspire Everyone to Take Action,256,14.23235294
+4.15,"1,817",Algorithms to Live By: The Computer Science of Human Decisions,368,14.36470588
+3.87,"2,093",Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy,259,14.50294118
+4.62,0,ZX Spectrum Games Code Club: Twenty fun games to code and learn,128,14.64117647
+4.03,-160,Sync: The Emerging Science of Spontaneous Order,352,15.22941176
+3.78,481,The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World,352,15.22941176
+3.73,33,Ship It!,200,15.32647059
+3.87,"1,255","Superintelligence: Paths, Dangers, Strategies",328,15.68235294
+3.87,593,"The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything",240,15.88529412
+3.95,417,Kingpin: How One Hacker Took Over the Billion-Dollar Cybercrime Underground,288,16.07352941
+3.85,80,The Quark and the Jaguar: Adventures in the Simple and the Complex,392,16.36764706
+3.94,279,"Linked: How Everything Is Connected to Everything Else and What It Means for Business, Science, and Everyday Life",304,16.85294118
+3.75,370,Our Final Invention: Artificial Intelligence and the End of the Human Era,336,1116.89117647
+4.1,"2,092","The Innovators: How a Group of Hackers, Geniuses and Geeks Created the Digital Revolution",542,17.22941176
+4.22,27,Debugging: The 9 Indispensable Rules for Finding Even the Most Elusive Software and Hardware Problems,192,17.49117647
+3.71,676,"Big Data: A Revolution That Will Transform How We Live, Work, and Think",242,17.62058824
+4.21,16,Help Your Kids with Computer Coding,224,18.93823529
+4.28,"1,268",The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography,412,19.13235294
+3.2,0,Game Programming Golden Rules,318,19.15294118
+3.67,19,The Architecture of Open Source Applications,432,19.24705882
+3.97,491,How to Create a Mind: The Secret of Human Thought Revealed,336,19.85588235
+3.98,48,The Hidden Connections: A Science for Sustainable Living,320,20.05294118
+3.96,1,Computability and Unsolvability,288,20.4
+4.37,1,Adventures in Minecraft,320,21.03823529
+4.25,16,Coding Games in Scratch,224,21.08823529
+4.32,39,Expert C Programming: Deep C Secrets,384,21.09705882
+4.01,356,Data and Goliath: The Hidden Battles to Collect Your Data and Control Your World,448,21.12647059
+4.13,86,The Cosmic Landscape: String Theory and the Illusion of Intelligent Design,416,21.81470588
+4.15,295,What Is Life? with Mind and Matter and Autobiographical Sketches,184,21.92352941
+3.91,57,Six Degrees: The Science of a Connected Age,384,21.96764706
+3.86,124,Nine Algorithms That Changed the Future: The Ingenious Ideas That Drive Today's Computers,219,22.40882353
+4.03,91,The Society of Mind,336,22.52058824
+4.23,530,JavaScript: The Good Parts,153,22.69411765
+4.04,61,The Pattern on the Stone: The Simple Ideas that Make Computers Work,176,22.82647059
+4.09,336,Accelerate: Building and Scaling High-Performing Technology Organizations,257,23.05
+4.33,0,Beginners Guide On PHP Programming: Quick And Easy Guide To Learn PHP With My-SQL,410,23.22647059
+4.09,4,The Connection Machine,190,23.23529412
+3.93,115,Agile Retrospectives: Making Good Teams Great,170,23.85
+4,0,Python Programming Books Set: Python Programming for Beginners & Complete Guide for Python Programming,446,23.85882353
+4.27,"2,629","The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win",345,24.25882353
+3.84,108,Agile Web Development with Rails: A Pragmatic Guide,558,24.51470588
+4.2,120,Scrum and XP from the Trenches,140,24.72352941
+4.06,38,A Smarter Way to Learn JavaScript: The new approach that uses technology to cut your effort in half,343,24.83235294
+3.65,154,97 Things Every Programmer Should Know: Collective Wisdom from the Experts,258,25.28235294
+4.08,9,Introduction to Functional Programming,293,25.30294118
+4.15,19,An Introduction to Functional Programming Through Lambda Calculus,336,25.30294118
+4.01,"1,035",Chaos: Making a New Science,352,25.70294118
+4.06,302,"The Strangest Man: The Hidden Life of Paul Dirac, Mystic of the Atom",539,25.82352941
+5,0,Your First App: Node.js,317,25.85588235
+4.12,116,Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman,176,26.00882353
+4.35,126,"Python Crash Course: A Hands-On, Project-Based Introduction to Programming",560,26.34411765
+4.11,17,"Invent Your Own Computer Games with Python, 3rd Edition",370,26.91764706
+4.35,58,The Principles of Object-Oriented JavaScript,120,27.24411765
+4.11,130,Joel on Software,384,27.42941176
+3.32,3,Sams Teach Yourself JavaScript in 24 Hours,442,27.85
+4,50,The Shape of Inner Space: String Theory and the Geometry of the Universe's Hidden Dimensions,377,27.94117647
+3.97,78,Seven Languages in Seven Weeks,328,27.94117647
+4.28,3,Quality Software Management V 1 – Systems Thinking,336,28.46470588
+3.91,0,Python Programming For Beginners: Quick And Easy Guide For Python Programmers,190,29.02058824
+3.68,22,Manage Your Project Portfolio,250,29.21176471
+3.78,71,How Google Tests Software,281,29.83529412
+4.4,547,Code: The Hidden Language of Computer Hardware and Software,400,30.49117647
+4.04,11,Computability and Logic,350,31.01176471
+4.15,203,Eloquent JavaScript: A Modern Introduction to Programming,224,31.02058824
+4.02,58,Does God Play Dice?: The New Mathematics of Chaos,416,31.22647059
+3.76,1,Learn Java the Easy Way : A Hands-On Introduction to Programming,312,31.48235294
+4.15,17,Make Your Own Neural Network: An In-depth Visual Introduction For Beginners,316,31.74705882
+3.6,58,"The Golden Ticket: P, Np, and the Search for the Impossible",176,32.84705882
+4.16,259,Pro Git,290,33.05882353
+4.27,153,Automate the Boring Stuff with Python: Practical Programming for Total Beginners,479,33.05882353
+4.05,2,Best of Game Programming Gems,576,33.54411765
+3.68,5,Sams Teach Yourself MySQL in 24 Hours,368,34.14117647
+4.16,33,Algorithms Unlocked,237,34.35588235
+4.34,11,Practical SQL: A Beginner's Guide to Storytelling with Data,392,34.42941176
+4.11,73,CSS: The Missing Manual,560,35.10294118
+4.39,3,Blueprints Visual Scripting for Unreal Engine,188,35.19117647
+3.88,279,Soft Skills: The Software Developer's Life Manual,470,35.23529412
+3.7,47,Doing Data Science,375,35.35882353
+3.83,278,Automate This: How Algorithms Came to Rule Our World,256,35.84117647
+4.11,125,How to Think Like a Computer Scientist: Learning with Python,288,36.12647059
+3.22,2,Beginning Java 2,1200,36.61764706
+4.31,161,Learn You a Haskell for Great Good!: A Beginner's Guide,376,36.7
+4.31,161,Learn You a Haskell for Great Good!,176,36.7
+4.27,8,Unity in Action,352,37.02058824
+4.05,"2,290",The Goal: A Process of Ongoing Improvement,384,37.14117647
+4.28,118,The Little Schemer,210,37.32352941
+4.43,57,Functional Programming in Scala,320,37.43235294
+4.5,59,High Performance Browser Networking,400,37.66176471
+3.38,2,Sams Teach Yourself Perl in 24 Hours,462,38.23529412
+3.87,122,Learn Python The Hard Way,210,38.29705882
+4.29,64,Effective Python: 59 Specific Ways to Write Better Python,227,38.62352941
+3.97,21,"Programming in Lua, Fourth Edition",388,38.75588235
+4.25,200,Release It!: Design and Deploy Production-Ready Software (Pragmatic Programmers),326,39.19705882
+3.89,15,Think Complexity: Complexity Science and Computational Modeling,160,39.61470588
+4.29,75,A Tour of C++,192,40.10588235
+4.2,1,Reviewing C++,546,40.47941176
+3.78,3,Functional Programming Application and Implementation,350,41.24411765
+4.54,52,The Elements of Computing Systems: Building a Modern Computer from First Principles,325,41.25294118
+4.34,4,Simulation of Digital Communication Systems using Matlab,422,41.30588235
+4.49,68,Game Programming Patterns,300,41.37647059
+4.11,43,The Practice of Programming (Addison-Wesley Professional Computing Series),288,41.40588235
+4.15,18,From Mathematics to Generic Programming,320,41.40588235
+3.82,39,REST in Practice: Hypermedia and Systems Architecture,448,41.89117647
+4.4,496,The Visual Display of Quantitative Information,197,42.03235294
+3.97,18,Fearless Change: Patterns for Introducing New Ideas,304,42.14411765
+4.02,13,Elements of Programming,262,42.23529412
+3.58,10,Learning Ruby,260,42.26470588
+3.75,47,The Design of Design: Essays from a Computer Scientist,421,42.26470588
+4.67,1,Build Web Applications with Java: Learn every aspect to build web applications from scratch,372,42.27647059
+4.33,33,More Effective C++,336,42.27647059
+4.2,23,Cryptography Engineering: Design Principles and Practical Applications,353,42.36764706
+4.3,61,Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript,240,42.52058824
+3.73,31,Machine Learning for Hackers,322,42.55588235
+4.29,395,Code Complete,914,42.61470588
+3.86,8,Making Games with Python & Pygame,366,43.16470588
+3.82,43,Big Data: Principles and best practices of scalable realtime data systems,328,43.31470588
+4.04,746,The Mythical Man-Month: Essays on Software Engineering,322,43.37058824
+4.28,464,The Clean Coder: A Code of Conduct for Professional Programmers,210,44.36470588
+4.2,79,Programming Pearls,239,44.36470588
+4.5,65,C# in Depth,554,44.42647059
+3.98,66,Learning Perl,312,44.64117647
+3.83,4,"The Scrumban [R]Evolution: Getting the Most Out of Agile, Scrum, and Lean Kanban",384,45.02941176
+4.18,11,Real-World Machine Learning,264,45.11470588
+3.96,53,PHP and MySQL Web Development (Developer's Library),1008,45.32647059
+3.67,1,Managing Data Using Excel,324,45.33529412
+4.72,362,"Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems",616,45.56176471
+3.37,1,Unity Virtual Reality Projects,286,45.66470588
+4.25,41,The Sciences of the Artificial,248,45.84117647
+4.03,70,Programming Ruby: The Pragmatic Programmers' Guide,828,46
+4.13,122,Python for Data Analysis,400,46.31764706
+3.93,55,Data Science from Scratch: First Principles with Python,330,46.31764706
+4.62,28,The Linux Programming Interface: A Linux and Unix System Programming Handbook,1506,46.35882353
+4.4,875,Clean Code: A Handbook of Agile Software Craftsmanship,434,46.57352941
+4.17,452,Peopleware: Productive Projects and Teams,245,46.67647059
+4.08,163,Extreme Programming Explained: Embrace Change (The XP Series),224,46.87058824
+4.08,168,Test Driven Development: By Example,216,48.62941176
+3.79,59,UML Distilled: A Brief Guide to the Standard Object Modeling Language,208,48.62941176
+4.22,26,Effective STL: 50 Specific Ways to Improve Your Use of the Standard Template Library,288,49.04117647
+4.23,32,Introduction to Computation and Programming Using Python,280,49.18235294
+4.14,92,Essential Scrum: A Practical Guide to the Most Popular Agile Process,496,49.62352941
+4.54,171,Practical Object Oriented Design in Ruby,247,50.09411765
+3.58,4,The Boost C++ Libraries,570,50.51176471
+4,0,Building an FPS Game with Unity,326,50.72647059
+4.4,1,The It Handbook for Business: Managing Information Technology Support Costs,180,51.17647059
+4.21,27,"DIV, Grad, Curl, and All That: An Informal Text on Vector Calculus",176,51.17647059
+3.93,1,Design and Validation of Computer Protocols,512,51.36176471
+4.11,52,The Psychology of Computer Programming,292,51.43235294
+4.34,63,Make Your Own Neural Network,252,51.46470588
+4.08,35,Accelerated C++: Practical Programming by Example,352,51.47352941
+3.83,11,The Rails Way,851,51.47352941
+4.18,50,The Joy of Clojure,328,51.47352941
+4.23,2,"More Exceptional C++: 40 New Engineering Puzzles, Programming Problems, and Solutions",304,51.47352941
+4.23,6,"Exceptional C++ Style: 40 New Engineering Puzzles, Programming Problems, and Solutions",325,51.47352941
+4.12,9,Computational Geometry: Algorithms and Applications,386,52.03823529
+4.28,404,Head First Design Patterns,638,52.15882353
+4.18,134,"Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation",463,52.48823529
+4.15,69,Quantum Computing Since Democritus,370,52.86470588
+3.93,9,Data Structures and Algorithms,448,53.17352941
+4.33,1,Android NDK Game Development Cookbook,320,53.39705882
+4.22,13,Assembly Language: Step-By-Step,448,53.89411765
+3.91,57,Effective Programming: More Than Writing Code,283,54.71764706
+4.18,302,Building Microservices: Designing Fine-Grained Systems,262,54.93529412
+4.21,8,"Exceptional C++: 47 Engineering Puzzles, Programming Problems, and Solutions",208,56.07941176
+4.25,1,Reviewing Java,658,56.59117647
+4.35,2,Microsoft Visual C# Step by Step,816,56.63235294
+4.25,275,Refactoring: Improving the Design of Existing Code,431,57.15294118
+4.19,116,"Growing Object-Oriented Software, Guided by Tests",345,57.15294118
+4.24,26,Modern C++ Design: Generic Programming and Design Patterns Applied,360,58.42941176
+4.46,164,Structure and Interpretation of Computer Programs (MIT Electrical Engineering and Computer Science),657,58.94411765
+4.46,164,Structure and Interpretation of Computer Programs,657,58.94411765
+4,1,Beginning Game Programming: A Gamedev.Net Collection,514,59.08235294
+3,0,Advanced Game Programming: A Gamedev.Net Collection,464,59.08235294
+3.83,0,Basic Proof Theory,355,59.52647059
+4.16,11,C: A Reference Manual,458,59.97941176
+4.14,224,Working Effectively with Legacy Code,464,60.05882353
+4.1,13,API Design for C++,472,60.18235294
+3,0,Cross-Platform Game Programming (Game Development) (Charles River Media Game Development),460,60.39117647
+4.18,351,Design Patterns: Elements of Reusable Object-Oriented Software,416,60.68235294
+3.52,9,Haskell: The Craft of Functional Programming,487,60.68235294
+4.13,5,Object-Oriented Design Heuristics,379,60.68235294
+4.12,25,C Primer Plus,959,60.68235294
+3,0,"Lambda-Calculus, Combinators and Functional Programming",192,61.16764706
+4.22,34,C++ Primer,976,61.18529412
+4.37,18,Mining of Massive Datasets,326,61.26470588
+4.21,15,"Framework Design Guidelines: Conventions, Idioms, and Patterns for Reusable .NET Libraries",480,61.42058824
+4.37,52,Dependency Injection in .NET,584,61.85588235
+3.88,26,Think Like a Programmer: An Introduction to Creative Problem Solving,233,62.79117647
+3.7,1,Augmented Reality: Principles and Practice,528,63.83529412
+4.67,78,"Fluent Python: Clear, Concise, and Effective Programming",792,64.09117647
+4.21,20,Hacker's Delight,320,64.23235294
+3.87,13,Domain-Specific Languages,597,64.39117647
+4.05,62,Implementing Domain-Driven Design,656,64.76470588
+4.58,58,CLR via C# (Developer Reference),863,66.32058824
+3.92,0,The Calculus of Computation: Decision Procedures with Applications to Verification,366,66.82058824
+4.2,17,"C++ Coding Standards: 101 Rules, Guidelines, and Best Practices (C++ in Depth Series)",240,66.82058824
+4,11,How to Design Programs: An Introduction to Programming and Computing,728,66.83235294
+4.32,39,Advanced Programming in the UNIX Environment,927,67.83529412
+3.96,150,Learning Python,1214,67.87352941
+3.95,36,Programming PHP,542,69.31764706
+4.42,426,The C Programming Language,288,69.37941176
+4.08,92,The C++ Programming Language,1040,69.37941176
+4,6,Mathematics for 3D Game Programming and Computer Graphics,545,69.89117647
+3.96,13,Pro TypeScript: Application-Scale JavaScript Development,256,70.35294118
+4.31,36,"The Protocols (TCP/IP Illustrated, Volume 1)",600,70.75882353
+4.15,191,Domain-Driven Design: Tackling Complexity in the Heart of Software,560,71.41470588
+4.23,18,Feynman Lectures On Computation,320,72.37647059
+4.13,0,Communication Networks: Fundamental Concepts and Key Architectures,928,75.7
+3.56,5,The Unified Modeling Language User Guide,475,77.05294118
+4.3,2,"Introduction to Game Design, Prototyping, and Development: From Concept to Playable Game with Unity and C#",908,77.05294118
+3.78,1,Lambda-Calculus and Combinators: An Introduction,345,78.43529412
+4.41,48,Algorithms,976,78.60882353
+3.86,5,Computational Complexity,544,78.73235294
+4.24,11,C++ Templates: The Complete Guide,560,79.1
+4.23,35,The UNIX Programming Environment,357,79.72352941
+4.33,28,Concrete Mathematics: A Foundation for Computer Science,672,79.80588235
+4.25,3,Inside the C++ Object Model,304,80.84411765
+4.05,39,Machine Learning,414,81.88823529
+4.34,79,The Algorithm Design Manual,730,81.92058824
+4.15,20,Algorithm Design,864,81.92058824
+3.94,45,xUnit Test Patterns: Refactoring Test Code,883,82.16764706
+3.59,0,Genetic Programming II: Automatic Discovery of Reusable Programs,768,82.36764706
+3.48,3,Optimized C++: Proven Techniques for Heightened Performance,388,83.15
+4.45,88,Deep Learning,787,83.20294118
+4.02,3,Practical Foundations for Programming Languages,582,83.21176471
+4.03,10,Engineering a Compiler,801,83.66176471
+3.92,27,Object-Oriented Analysis and Design with Applications,720,83.70294118
+3.77,28,Database System Concepts,1142,85.60588235
+3.91,4,Elements of the Theory of Computation,384,87.24705882
+4.25,48,"Agile Software Development, Principles, Patterns, and Practices",552,87.28529412
+4.14,6,3D Math Primer for Graphics and Game Development,846,87.38235294
+4.23,66,Introduction to the Theory of Computation,431,90.98235294
+4,5,Game Programming Gems,600,91.04705882
+4.01,0,Game Programming Gems 2,575,91.04705882
+4.03,0,Game Programming Gems 5,791,91.04705882
+4.33,194,Introduction to Algorithms,1180,92.25588235
+4.06,3,Geometric Algebra for Computer Science: An Object-Oriented Approach to Geometry,626,92.35882353
+3.97,4,Essentials of Programming Languages,410,92.41176471
+4.37,44,"The Art of Computer Programming, Volume 1: Fundamental Algorithms",672,93.45588235
+4.1,7,Essential Mathematics for Games and Interactive Applications,624,94.78529412
+4.35,21,Game Engine Architecture,1052,96.03235294
+4.37,0,"A First Course in Logic: An Introduction to Model Theory, Proof Theory, Computability, and Complexity",431,96.49411765
+3.9,2,Computational Science and Engineering,716,97.52647059
+4.02,25,"Introduction to Automata Theory, Languages, and Computation",521,97.68823529
+4.03,1,Geometric Tools for Computer Graphics,1056,99.82941176
+4.1,31,Computer Architecture: A Quantitative Approach,493,101.0558824
+4.42,38,Computer Systems: A Programmer's Perspective,978,103.1735294
+4.11,56,Modern Operating Systems,976,103.4617647
+4.11,56,"Modern Operating Systems, 4th Edition",1136,103.4617647
+3.96,15,Structured Computer Organization,669,103.6088235
+3.67,2,Game Engine Gems 1,362,105.65
+4.13,14,"Concepts, Techniques, and Models of Computer Programming",936,107.7470588
+3.87,13,File Structures: An Object-Oriented Approach with C++,724,108.3676471
+4.16,16,The C++ Standard Library: A Tutorial and Reference,1136,113.3029412
+4.18,130,Artificial Intelligence: A Modern Approach,1132,115.75
+3.45,1,3D Game Engine Design: A Practical Approach to Real-Time Computer Graphics (The Morgan Kaufmann Series in Interactive 3D Technology),1040,117.9882353
+3.82,0,Game Programming Gems 6,700,119.2029412
+4.08,56,"Compilers: Principles, Techniques, and Tools",796,126.5794118
+3.77,0,Game Programming Gems 4,703,139.4352941
+3.82,0,Game Programming Gems 3,663,143.1382353
+4.26,5,Numerical Recipes: The Art of Scientific Computing,1235,176.1441176
+3.76,0,3D Game Engine Architecture: Engineering Real-Time Applications with Wild Magic (The Morgan Kaufmann Series in Interactive 3d Technology),752,203.1088235
+3.94,22,An Introduction to Database Systems,1040,212.0970588
+4.49,36,"The Art of Computer Programming, Volumes 1-3 Boxed Set",896,220.3852941
+4.77,4,"The Art of Computer Programming, Volumes 1-4a Boxed Set",3168,220.3852941
+3.84,5,A Discipline for Software Engineering,789,235.65
